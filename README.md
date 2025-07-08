@@ -1,23 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aung Chan Myae/ Ethan Chan</h1>
-<h3 align="center">Trying to become Fullstack Web Developer from Bangkok.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanmyae97&label=Profile%20views&color=0e75b6&style=flat" alt="chanmyae97" /> </p>
-
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js. Typescript**
-
-- 💬 Ask me about **HTML,CSS, JavaScript**
-
-- 📫 How to reach me **acm.fullstack@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hey 👋, I'm Aung Chan Myae (Ethan Chan)</h1>
+<p align="center">
+  Aspiring Full Stack Developer | Incoming MSc Computing @ University of Westminster  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanmyae97&show_icons=true&locale=en&layout=compact" alt="chanmyae97" /></p>
+<h3>🚀 Tech Stack</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanmyae97&show_icons=true&locale=en" alt="chanmyae97" /></p>
+<ul>
+  <li><strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS</li>
+  <li><strong>Backend:</strong> Node.js, Express, MongoDB</li>
+  <li><strong>Currently Exploring:</strong> Laravel, PHP, MySQL, Docker</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanmyae97&" alt="chanmyae97" /></p>
+<h3>🎯 Goals</h3>
+<ul>
+  <li>Build scalable full-stack projects</li>
+  <li>Explore DevOps & Cloud deployment</li>
+  <li>Contribute to open-source</li>
+</ul>
+
+<h3>🌍 Location</h3>
+<p>📍 From <strong>Myanmar</strong>, based in <strong>Thailand</strong>, soon moving to the <strong>UK 🇬🇧</strong></p>
+
+<hr/>
+
+
+</div><h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+<h3>📈 GitHub Stats</h3>
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acm-stackdev&layout=compact&theme=tokyonight" alt=acm-stackdev />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=acm-stackdev&show_icons=true&locale=en&theme=tokyonight" alt="acm-stackdev" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=acm-stackdev&theme=tokyonight" alt="acm-stackdev" /></p>
+
+<!-- Optional link icons -->
+<p align="center">
+ <!-- <a href="https://your-portfolio.com" target="_blank">🌐 Portfolio</a> | -->
+  <a href="acm.dev@outlook.con">📧 Email</a> |
+  <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/aung-chan-myae-7b94042a5">🔗 LinkedIn</a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
