@@ -1,7 +1,10 @@
+
 <h1 align="center">Hey 👋, I'm Aung Chan Myae (Ethan Chan)</h1>
 <p align="center">
   Aspiring Full Stack Developer | Incoming MSc Computing @ University of Westminster  
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=acm-stackdev&label=Profile%20views&color=0e75b6&style=flat" alt="acm-stackdev" /> </p>
+
 
 <hr/>
 
@@ -52,6 +55,9 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=acm-stackdev&theme=tokyonight" alt="acm-stackdev" /></p>
 
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 <!-- Optional link icons -->
 <p align="center">
  <!-- <a href="https://your-portfolio.com" target="_blank">🌐 Portfolio</a> | -->
@@ -59,4 +65,4 @@
   <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/aung-chan-myae-7b94042a5">🔗 LinkedIn</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
