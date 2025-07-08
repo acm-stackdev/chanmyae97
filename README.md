@@ -8,14 +8,6 @@
 
 <hr/>
 
-<h3>🚀 Tech Stack</h3>
-
-<ul>
-  <li><strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS</li>
-  <li><strong>Backend:</strong> Node.js, Express, MongoDB</li>
-  <li><strong>Currently Exploring:</strong> Laravel, PHP, MySQL, Docker</li>
-</ul>
-
 <h3>🎯 Goals</h3>
 <ul>
   <li>Build scalable full-stack projects</li>
@@ -49,13 +41,11 @@
 
 <h3>📈 GitHub Stats</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acm-stackdev&layout=compact&theme=tokyonight" alt=acm-stackdev />
+<p align="center">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acm-stackdev&layout=compact&theme=tokyonight" alt=acm-stackdev />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=acm-stackdev&show_icons=true&locale=en&theme=tokyonight" alt="acm-stackdev" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=acm-stackdev&theme=tokyonight" alt="acm-stackdev" /></p>
-
-
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=acm-stackdev&theme=tokyonight" alt="acm-stackdev" />
+</p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!-- Optional link icons -->
